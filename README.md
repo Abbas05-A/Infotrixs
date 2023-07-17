@@ -1,7 +1,7 @@
 Hello, I am excited to present my personal portfolio website, which I built from scratch to showcase my skills and projects as a front-end developer.
 
 Screenshot of My Portfolio Website!
-[Screenshot (1)](https://github.com/Abbas05-A/Infotrixs/assets/138985909/e3b42ae8-60ad-47f8-8fea-7bc21f5c38f5)
+![Screenshot (1)](https://github.com/Abbas05-A/Infotrixs/assets/138985909/e3b42ae8-60ad-47f8-8fea-7bc21f5c38f5)
 
 Overview:-
 This repository contains the code for my personal portfolio website. The website showcases my skills, projects, and experiences using HTML, CSS, and JavaScript.
@@ -34,18 +34,17 @@ Dynamic Resume Generation: Utilized JavaScript to generate a downloadable PDF re
 
 How to Run the Project Locally:-
 Clone this repository to your local machine using the following command:
-👉 Copy code git clone 
+👉 Copy code git clone https://github.com/Abbas05-A/Infotrixs.git
 Open the index.html file in your preferred web browser to view the website.
 
 For Live Demo Visit the live portfolio website 👉 https://personal-portfolio-abbas-a.netlify.app
 
 Screenshots:-
-1. ![Screenshot (1)](https://github.com/Abbas05-A/Infotrixs/assets/138985909/3f3c9f68-1cf7-451e-8bcf-162804443f30)
 
-2. ![Screenshot (2)](https://github.com/Abbas05-A/Infotrixs/assets/138985909/81567e99-ce9e-45d8-99ed-f0f3b7fb5ac9)
+1. ![Screenshot (2)](https://github.com/Abbas05-A/Infotrixs/assets/138985909/81567e99-ce9e-45d8-99ed-f0f3b7fb5ac9)
 
-3. ![Screenshot (3)](https://github.com/Abbas05-A/Infotrixs/assets/138985909/2502e3b4-677a-49b9-803b-f679183b4dd9)
+2. ![Screenshot (3)](https://github.com/Abbas05-A/Infotrixs/assets/138985909/2502e3b4-677a-49b9-803b-f679183b4dd9)
 
-4. ![Screenshot (4)](https://github.com/Abbas05-A/Infotrixs/assets/138985909/091e551f-3987-4233-beff-1a8f10841d39)
+3. ![Screenshot (4)](https://github.com/Abbas05-A/Infotrixs/assets/138985909/091e551f-3987-4233-beff-1a8f10841d39)
 
-5. ![Screenshot (5)](https://github.com/Abbas05-A/Infotrixs/assets/138985909/aefffac4-e3aa-44f8-abc2-1999452158e8)
+4. ![Screenshot (5)](https://github.com/Abbas05-A/Infotrixs/assets/138985909/aefffac4-e3aa-44f8-abc2-1999452158e8)
